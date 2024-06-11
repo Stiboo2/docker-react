@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit t <code>src/App.js</code> and save to reload.thabo
+          Edit <code>src/App.js</code> and save to reload.thabo Radebe
         </p>
         <a
           className="App-link"
